@@ -13,7 +13,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-account = Account(email='lyes.berkane92@gmail.com', password='@#CodeBreak99')
+account = Account(email='lydfhfdhl.com', password='gfdgfdhfdh')
 
 event = Event(antenna_name='alger', uid='6130d7adee43a',
               title='TCF SO', antenna_id=1,
