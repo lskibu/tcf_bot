@@ -1,0 +1,15 @@
+{
+  "account": {
+    "email": "",
+    "password": ""
+  },
+  "telegram": {
+    "token": "",
+    "chat_id": ""
+  },
+  "engine": {
+    "max_bots": 1,
+    "sleep_time_sec": 15,
+    "rate_limit_ms": 1000
+  }
+}
